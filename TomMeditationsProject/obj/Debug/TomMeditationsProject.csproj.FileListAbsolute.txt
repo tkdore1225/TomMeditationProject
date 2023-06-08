@@ -1,0 +1,17 @@
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.csproj.AssemblyReference.cache
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Home.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Instructor.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Meditation.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Mindfulness.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Prayer.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Properties.Resources.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Sleep.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.Yoga.resources
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.csproj.GenerateResource.cache
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.csproj.CoreCompileInputs.cache
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\bin\Debug\TomMeditationsProject.exe.config
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\bin\Debug\TomMeditationsProject.exe
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\bin\Debug\TomMeditationsProject.pdb
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.exe
+C:\Users\tdore\OneDrive\Desktop\My Projects\TomMeditationsProject\TomMeditationsProject\obj\Debug\TomMeditationsProject.pdb
